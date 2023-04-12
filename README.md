@@ -19,8 +19,8 @@ With other datasets, for running the pretraining notebook, each dataset should b
 
 Use the following commands to install libraries needed to run the notebooks:
 ```
-git clone https://github.com/idatoivanen/text-classification.git
-cd text-classification
+git clone https://github.com/DARIAH-FI-Survey-Concept-Network/finnsentiment-classification.git
+cd finnsentiment-classification
 pip install -r requirements.txt
 ```
 
